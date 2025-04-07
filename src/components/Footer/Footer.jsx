@@ -37,7 +37,7 @@ function Footer() {
                 </div>
             </div>
             <hr />
-            <p className="footer-copyright">Copyright 2025 &copy; Food.com - All Right Reservied</p>
+            <p className="footer-copyright">Copyright 2025 &copy; yum-express.vercel.app - All Right Reservied</p>
         </div>
     )
 }
